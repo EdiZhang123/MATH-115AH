@@ -2,7 +2,7 @@
 Morgan Opie Spring 2024
 
 | Assignment | Grade   |
-| ---------* | ------- |
+| ---------: | ------: |
 | Homework 1 | 9.75/10 |
 | Homework 2 | 10/10   |    
 | Homework 3 | 8.75/10 |    
