@@ -1,6 +1,8 @@
 # MATH-115AH
 Morgan Opie Spring 2024
 
+Honors Linear Algebra (Proof Based)
+
 | Assignment | Grade   |
 | ---------: | ------: |
 | Homework 1 | 9.75/10 |
